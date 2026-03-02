@@ -13,8 +13,9 @@
 I enjoy turning complex ideas into practical software systems through hands-on development, experimentation, and continuous learning. My goal is to contribute to technologies that redefine how humans interact with machines.
 
 ## 🌱 Currently Exploring
-Advanced system design, real-time graphics, AI-driven applications, and immersive computing platforms.
-
+Languages: C
+Dev Tools: Git, Visual Studio Code, GitHub, Google Antigravity
+Currently learning: C++, JavaScript, Python
 ---
 
-✨ *Building the future — one project at a time.*
+✨ *One must first learn before he removes the L* ✨
