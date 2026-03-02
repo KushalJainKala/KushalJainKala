@@ -5,9 +5,8 @@
 
 ## 🌱 Currently Exploring
 Languages: C
-
 Dev Tools: Git, Visual Studio Code, GitHub, Google Antigravity
-
 Learning: C++, Python, JavaScript
+
 ---
 
