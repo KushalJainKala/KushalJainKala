@@ -15,7 +15,7 @@ I enjoy turning complex ideas into practical software systems through hands-on d
 ## 🌱 Currently Exploring
 Languages: C
 Dev Tools: Git, Visual Studio Code, GitHub, Google Antigravity
-Currently learning: C++, JavaScript, Python
+Currently Learning: C++, Python, JavaScript
 ---
 
 ✨ *One must first learn before he removes the L* ✨
